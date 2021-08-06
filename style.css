@@ -10,6 +10,10 @@
     text-shadow: none;
 }
 
+.contact_1 {
+    margin-top: 100px;
+}
+
 input {
     background: grey
 }
@@ -32,6 +36,40 @@ input {
     width: 100%;
     display: inline-block;
 }
-.movieHead i{
+
+.movieHead i {
     float: right;
+}
+
+.mymovies {
+    margin-bottom: 10px;
+}
+
+.Myplaces img {
+    width: 70%;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
 }
